@@ -1,0 +1,1 @@
+Over-loading, Over-ridding, Multiple-inheritance, Static method
