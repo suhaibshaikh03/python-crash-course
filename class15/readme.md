@@ -1,0 +1,1 @@
+Callable, Abstract, Encapsulation, Duc typing
